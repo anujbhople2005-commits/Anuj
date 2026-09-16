@@ -1,0 +1,7 @@
+{
+  "name": "Smart Patient History & Triage System (SPHTS)",
+  "description": "Dual Modern + Ayush clinical intake, Bhashini multilingual voice triage, and deterministic emergency bypass for AIIA & Ministry of Ayush OPDs.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
